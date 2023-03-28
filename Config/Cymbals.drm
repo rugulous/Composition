@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="3.01">
+  <Drum pitch="38">
+    <head>normal</head>
+    <line>8</line>
+    <voice>0</voice>
+    <name>Orchestra Crash 3</name>
+    <stem>1</stem>
+    <shortcut>A</shortcut>
+    <variants>
+      <variant pitch="40">
+        <articulation>staccatissimo</articulation>
+        </variant>
+      <variant pitch="37">
+        <articulation>tenuto</articulation>
+        </variant>
+      <variant pitch="36">
+        <articulation>portato</articulation>
+        </variant>
+      </variants>
+    </Drum>
+  <Drum pitch="43">
+    <head>normal</head>
+    <line>8</line>
+    <voice>0</voice>
+    <name>Tap Cymbal 3</name>
+    <stem>1</stem>
+    <variants>
+      <variant pitch="44">
+        <articulation>staccato</articulation>
+        </variant>
+      </variants>
+    </Drum>
+  <Drum pitch="45">
+    <head>normal</head>
+    <line>8</line>
+    <voice>0</voice>
+    <name>Crunch Cymbal 3</name>
+    <stem>1</stem>
+    <shortcut>D</shortcut>
+    </Drum>
+  <Drum pitch="47">
+    <head>normal</head>
+    <line>8</line>
+    <voice>0</voice>
+    <name>Sizzle Cymbal 3</name>
+    <stem>1</stem>
+    <variants>
+      <variant pitch="48">
+        <articulation>staccato</articulation>
+        </variant>
+      </variants>
+    </Drum>
+  <Drum pitch="50">
+    <head>normal</head>
+    <line>8</line>
+    <voice>0</voice>
+    <name>Ding Cymbal 3</name>
+    <stem>1</stem>
+    </Drum>
+  <Drum pitch="51">
+    <head>normal</head>
+    <noteheads>
+      <whole>noteheadSlashedWhole1</whole>
+      <half>noteheadSlashedHalf1</half>
+      <quarter>noteheadSlashedBlack1</quarter>
+      <breve>noteheadXDoubleWhole</breve>
+      </noteheads>
+    <line>8</line>
+    <voice>0</voice>
+    <name>Zing Cymbal 3</name>
+    <stem>1</stem>
+    </Drum>
+  <Drum pitch="62">
+    <head>normal</head>
+    <line>4</line>
+    <voice>0</voice>
+    <name>Orchestra Crash 2</name>
+    <stem>1</stem>
+    <shortcut>B</shortcut>
+    <variants>
+      <variant pitch="64">
+        <articulation>staccatissimo</articulation>
+        </variant>
+      <variant pitch="61">
+        <articulation>tenuto</articulation>
+        </variant>
+      <variant pitch="60">
+        <articulation>portato</articulation>
+        </variant>
+      </variants>
+    </Drum>
+  <Drum pitch="67">
+    <head>normal</head>
+    <line>4</line>
+    <voice>0</voice>
+    <name>Tap Cymbal 2</name>
+    <stem>1</stem>
+    <variants>
+      <variant pitch="68">
+        <articulation>staccato</articulation>
+        </variant>
+      </variants>
+    </Drum>
+  <Drum pitch="69">
+    <head>cross</head>
+    <line>4</line>
+    <voice>0</voice>
+    <name>Crunch Cymbal 2</name>
+    <stem>1</stem>
+    <shortcut>E</shortcut>
+    </Drum>
+  <Drum pitch="71">
+    <head>circled-large</head>
+    <line>4</line>
+    <voice>0</voice>
+    <name>Sizzle Cymbal 2</name>
+    <stem>1</stem>
+    <variants>
+      <variant pitch="72">
+        <articulation>staccato</articulation>
+        </variant>
+      </variants>
+    </Drum>
+  <Drum pitch="74">
+    <head>normal</head>
+    <line>4</line>
+    <voice>0</voice>
+    <name>Ding Cymbal 2</name>
+    <stem>1</stem>
+    </Drum>
+  <Drum pitch="75">
+    <head>normal</head>
+    <noteheads>
+      <whole>noteheadSlashedWhole1</whole>
+      <half>noteheadSlashedHalf1</half>
+      <quarter>noteheadSlashedBlack1</quarter>
+      <breve>noteheadXDoubleWhole</breve>
+      </noteheads>
+    <line>4</line>
+    <voice>0</voice>
+    <name>Zing Cymbal 2</name>
+    <stem>1</stem>
+    </Drum>
+  <Drum pitch="86">
+    <head>normal</head>
+    <line>0</line>
+    <voice>0</voice>
+    <name>Orchestra Crash 1</name>
+    <stem>1</stem>
+    <shortcut>C</shortcut>
+    <variants>
+      <variant pitch="88">
+        <articulation>staccatissimo</articulation>
+        </variant>
+      <variant pitch="85">
+        <articulation>tenuto</articulation>
+        </variant>
+      <variant pitch="84">
+        <articulation>portato</articulation>
+        </variant>
+      </variants>
+    </Drum>
+  <Drum pitch="91">
+    <head>normal</head>
+    <line>0</line>
+    <voice>0</voice>
+    <name>Tap Cymbal 1</name>
+    <stem>1</stem>
+    <variants>
+      <variant pitch="92">
+        <articulation>staccato</articulation>
+        </variant>
+      </variants>
+    </Drum>
+  <Drum pitch="93">
+    <head>normal</head>
+    <line>0</line>
+    <voice>0</voice>
+    <name>Crunch Cymbal 1</name>
+    <stem>1</stem>
+    <shortcut>F</shortcut>
+    </Drum>
+  <Drum pitch="95">
+    <head>normal</head>
+    <line>0</line>
+    <voice>0</voice>
+    <name>Sizzle Cymbal 1</name>
+    <stem>1</stem>
+    <variants>
+      <variant pitch="96">
+        <articulation>staccato</articulation>
+        </variant>
+      </variants>
+    </Drum>
+  <Drum pitch="98">
+    <head>normal</head>
+    <line>0</line>
+    <voice>0</voice>
+    <name>Ding Cymbal 1</name>
+    <stem>1</stem>
+    </Drum>
+  <Drum pitch="99">
+    <head>normal</head>
+    <noteheads>
+      <whole>noteheadSlashedWhole1</whole>
+      <half>noteheadSlashedHalf1</half>
+      <quarter>noteheadSlashedBlack1</quarter>
+      <breve>noteheadXDoubleWhole</breve>
+      </noteheads>
+    <line>0</line>
+    <voice>0</voice>
+    <name>Zing Cymbal 1</name>
+    <stem>1</stem>
+    </Drum>
+  </museScore>
